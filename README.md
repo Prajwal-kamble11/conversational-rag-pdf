@@ -106,8 +106,3 @@ streamlit run app.py
 
 
 ## 🙌 Contributions and improvements are welcome!
-```yaml
-
-👉 Do you want me to also **add example screenshots** (like PDF upload UI and chat output) to the README so your repo looks more attractive on GitHub?
-
-```

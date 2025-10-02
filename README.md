@@ -53,15 +53,15 @@ streamlit run app.py
 
 ## 📖 Usage
 
-### 1.Enter your GROQ API key in the Streamlit app.
+ 1.Enter your GROQ API key in the Streamlit app.
 
-### 2.Upload one or more PDF files.
+ 2.Upload one or more PDF files.
 
-### 3.Ask questions in natural language.
+ 3.Ask questions in natural language.
 
-### 4.The assistant retrieves the most relevant chunks and responds using the Groq LLaMA model.
+ 4.The assistant retrieves the most relevant chunks and responds using the Groq LLaMA model.
 
-### 5.Chat history is preserved, so you can ask follow-up questions.
+ 5.Chat history is preserved, so you can ask follow-up questions.
 
 
 ## 🛠️ Tech Stack
@@ -96,13 +96,13 @@ streamlit run app.py
 
 ## 📝 Example
 
-### Upload a research paper PDF
+ - Upload a research paper PDF
 
-### Ask: "What is the main contribution of this paper?"
+ - Ask: "What is the main contribution of this paper?"
 
-### Follow up: "Who are the authors?"
+ - Follow up: "Who are the authors?"
 
-### The assistant will retrieve and answer from the PDF context with memory of previous questions.
+ - The assistant will retrieve and answer from the PDF context with memory of previous questions.
 
 
 ## 🙌 Contributions and improvements are welcome!
